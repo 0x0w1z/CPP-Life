@@ -72,6 +72,6 @@ if (type == 'S'){
 cout << "\nEnter the Amount for Saving Account [Minimum NRS 1000/-]";
 
 
-}
+};
 
 
